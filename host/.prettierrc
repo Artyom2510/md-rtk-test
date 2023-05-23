@@ -1,0 +1,33 @@
+{
+  "semi": true,
+  "tabWidth": 2,
+  "printWidth": 80,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "jsxSingleQuote": true,
+  "bracketSpacing": true,
+  "useTabs": false,
+  "jsxBracketSameLine": false,
+  "arrowParens": "avoid",
+  "importOrder": [
+    "^react",
+    "^react-router-dom",
+    "^react-hook-form",
+    "^@reduxjs/toolkit",
+    "^react-redux",
+    "^clsx",
+    "^ui-kit",
+    "^hooks",
+    "^state",
+    "^pages",
+    "^components",
+    "^helpers",
+    "^routes",
+    "^constants",
+    "^mocks",
+    "^types",
+    "^assets",
+    "<THIRD_PARTY_MODULES>",
+    "^.+\\.scss$"
+  ]
+}
